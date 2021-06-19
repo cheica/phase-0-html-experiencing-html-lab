@@ -1,0 +1,5 @@
+"TopShop" 
+"Abercrombie & Fitch" 
+"Zara" 
+"Calvin Klein" 
+"GAP"
